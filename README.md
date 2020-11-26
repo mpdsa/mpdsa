@@ -1,4 +1,4 @@
-Olá, me chamo Marcos Albuquerque, sou de Pernambuco, Brasil. Atualmente estudo para ser um Profissional 'Desenvolvedor Full-Stack Júnior' e também atuo como 'Voluntário no Site [Atados](https://www.atados.com.br/)' desenvolvendo e ajudando na contrução sites para ONG's :clap: .
+Olá, me chamo Marcos Albuquerque, sou de Pernambuco, Brasil. Atualmente estudo para ser um Profissional 'Desenvolvedor Full-Stack Júnior' e também atuo como 'Voluntário no Site [Atados](https://www.atados.com.br/)' desenvolvendo e ajudando na construção sites para ONG's :clap: .
 
 Sou Estudante de **Desenvolvimento de Software Web na Trybe** e também sou estudante de **Análise e Desenvolvimento de Sistemas na UNINABUCO**.
 
