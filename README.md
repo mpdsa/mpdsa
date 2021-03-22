@@ -6,7 +6,7 @@
 > * Também sou estudante de *Análise e Desenvolvimento de Sistemas* na [UNINABUCO](https://graduacao.uninabuco.digital/).
 
 ### 💾 Experiências
-> * Comecei como *Técnico de Montagem e Manutenção de Micro* atuando como freelancer desdos 17 anos.
+> * Comecei como *Técnico de Montagem e Manutenção de Micro* atuando como freelancer desde os 17 anos.
 > * Sou voluntário no Site [Atados](https://www.atados.com.br/)' desenvolvendo e ajudando na construção sites para ONG's :clap: .
 
 ### 📑 Portfólio
@@ -18,7 +18,7 @@
 > ![HTML5](html.png "HTML5")
 > ![CSS3](css3.png "CSS3")
 > ![Bootstrap](bootstrap4.png "Bootstrap")
-> ![Javascript](javascript.png "Javascript")
+> ![JavaScript](javascript.png "JavaScript")
 > ![jQuery](jquery.png "jQuery")
 > ![React](react.png "React")
 > ![NodeJS](node-js.png "NodeJS")
