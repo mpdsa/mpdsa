@@ -13,7 +13,6 @@
 > * Visite meu [website](http://marcosdevmaster.rf.gd/) para a listagem completa dos meus projetos!
 > * Ou, se preferir, visite meus repositórios com alguns [projetos](https://github.com/MarcosAlbuquerque?tab=repositories) Open Source aqui mesmo!
 
----
 
 ### 👨‍💻 Linguagens
 > ![HTML5](html.png "HTML5")
