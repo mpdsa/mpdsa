@@ -10,8 +10,7 @@
 > * Sou voluntário no Site [Atados](https://www.atados.com.br/)' desenvolvendo e ajudando na construção sites para ONG's desde 2019 :clap: .
 
 ### 📑 Portfólio
-> * Visite meu [website](http://marcosdevmaster.rf.gd/) para a listagem completa dos meus projetos!
-> * Ou, se preferir, visite meus repositórios com alguns [projetos](https://github.com/MarcosAlbuquerque?tab=repositories) Open Source aqui mesmo!
+> * Visite esta [página](https://github.com/MarcosAlbuquerque?tab=repositories) para ver a lista completa dos meus projetos criados ao longo da minha jornada.
 
 ---
 
