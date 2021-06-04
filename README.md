@@ -1,7 +1,4 @@
-### Sobre
-
 ## Olá, Me Chamo Marcos Albuquerque!
-Sou de Pernambuco, Brasil.  
 Estudo Desenvolvimento Web para Seguir Carreira como Profissional.  
 Aluno de *Desenvolvimento Full-Stack Júnior* na [Trybe](https://www.betrybe.com/).  
 Aluno de *Análise e Desenvolvimento de Sistemas* na [UNINABUCO](https://graduacao.uninabuco.digital/).
