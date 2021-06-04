@@ -1,6 +1,7 @@
 ### Sobre
 
-Olá! Me Chamo Marcos Albuquerque, Sou de Pernambuco, Brasil.  
+## Olá, Me Chamo Marcos Albuquerque!
+Sou de Pernambuco, Brasil.  
 Estudo Desenvolvimento Web para Seguir Carreira como Profissional.  
 Aluno de *Desenvolvimento Full-Stack Júnior* na [Trybe](https://www.betrybe.com/).  
 Aluno de *Análise e Desenvolvimento de Sistemas* na [UNINABUCO](https://graduacao.uninabuco.digital/).
@@ -10,7 +11,7 @@ Aluno de *Análise e Desenvolvimento de Sistemas* na [UNINABUCO](https://graduac
 * Sou Voluntário no Site [Atados](https://www.atados.com.br/) Desenvolvendo e Ajudando na Construção Sites para Ong's Desde 2019.
 
 ### Portfólio
-* Página dos meus [projetos](https://github.com/MarcosAlbuquerque/Trybe) criados na Trybe.
+* Linha do aprendizado e [projetos](https://github.com/MarcosAlbuquerque/Trybe) realizados estudando na Trybe.
 
 
 ### 👨‍💻 Tecnologias
