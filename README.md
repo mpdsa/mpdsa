@@ -23,7 +23,6 @@ Aluno de *Análise e Desenvolvimento de Sistemas* na [UNINABUCO](https://graduac
 ### 👨‍💻 Ferramentas
 ![Linux](linux.png "Linux")
 ![Visual Studio Code](vscode.png "Visual Studio Code")
-![GitHub](github.png "GitHub")
 ![git](git.png "git")
 ![Zoom](zoom.png "Zoom")
 ![Slack](slack.png "Slack")
