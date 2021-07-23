@@ -1,7 +1,8 @@
 ## Olá, Me Chamo Marcos Albuquerque!
-Estudo Desenvolvimento Web para Seguir Carreira como Profissional.  
-Aluno de *Desenvolvimento Full-Stack Júnior* na [Trybe](https://www.betrybe.com/).  
-Aluno de *Análise e Desenvolvimento de Sistemas* na [UNINABUCO](https://graduacao.uninabuco.digital/).
+Apaixonado por tecnologia desde meus 16 anos, comecei como técnico de montagem e manutenção de computadores (freelancer) na época do orkut, desde então, venho me capacitando na área do Desenvolvimento Web buscando seguir carreira na tão sonhada profissão.
+
+Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) pela [UNINABUCO](https://graduacao.uninabuco.digital/) e também sou aluno de Desenvolvimento Full-Stack na [Trybe](https://www.betrybe.com/).
+
 
 ### Experiências
 * Iniciei como *Técnico de Montagem e Manutenção de Micro* Freelancer em 2006.
