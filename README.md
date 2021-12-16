@@ -32,7 +32,7 @@ Trabalhando com tecnologia desde 2009!
 ![visitas](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=red&right_color=blue)
 
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbuquerque&layout=compact&theme=dark&hide_border=false" height=150 />
- <img src="https://github-readme-stats.vercel.app/api?username=marcosalbuquerque&show_icons=true&theme=onedark&locale=pt-br" height=150 />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbuquerque&layout=compact&theme=dark&hide_border=false" height=170 />
+ <img src="https://github-readme-stats.vercel.app/api?username=marcosalbuquerque&show_icons=true&theme=onedark&locale=pt-br" height=170 />
 </p>
 
