@@ -1,18 +1,21 @@
 ## Olá, Me Chamo Marcos Albuquerque!
-Apaixonado por tecnologia desde meu primeiro contato com o computador nos meados de 2006, me tornei profissional freelancer de montagem e manutenção de micro na época do orkut, em seguida fui atendente de Lan House e Cyber Café, migrando para outros setores e nunca saindo da área da tecnologia.
+Trabalhando com tecnologia desde 2009!
 
-Hoje, sigo me capacitando para me tornar Desenvolvedor Web, buscando seguir carreira na tão sonhada profissão.
+### Sobre
+<!-- * Estudando: Análise e Desenvolvimento de Sistemas (ADS) - UNINABUCO -->
+* Cursando: Full Stack - Trybe.
+* Aprendendo: [Socket.io](https://socket.io/)
+* Dúvidas: Pergunte sobre desenvolvimento web.
+* Trabalho: Buscando seguir carreira como Engenheiro Front End.
 
-Atualmente sou estudante de Análise e Desenvolvimento de Sistemas (ADS) pela UNINABUCO e também sou aluno de Desenvolvimento Full-Stack na Trybe.
-
-Tenho sede de conhecimento, busco sempre aprimorar e sou autodidata.
 
 ### Experiências
-* Iniciei como *Técnico de Montagem e Manutenção de Micro* Freelancer em 2006.
+* Iniciei como Técnico de Montagem e Manutenção de Micro Freelancer em 2009.
+* Desenvolvi sites, criei servidores de jogos privados, criei programas para windows, cheats, etc.
 * Sou Voluntário no Site [Atados](https://www.atados.com.br/) Desenvolvendo e Ajudando na Construção Sites para Ong's Desde 2019.
 
-### Portfólio
-* Linha do aprendizado e [projetos](https://github.com/MarcosAlbuquerque/Trybe) realizados estudando na Trybe.
+### Projeto de cursos
+* Timeline do aprendizado e [projetos](https://github.com/MarcosAlbuquerque/Cursos) realizados de cada curso, separados por pasta.
 
 
 ### 👨‍💻 Tecnologias
@@ -25,4 +28,11 @@ Tenho sede de conhecimento, busco sempre aprimorar e sou autodidata.
 ![PHP](php.png "PHP")
 ![MySQL](mysql.png "MySQL")
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcosalbuquerque&show_icons=true&theme=onedark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitas](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=red&right_color=blue)
+
+<p align = "center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbuquerque&layout=compact&theme=dark&hide_border=false" height=190 />
+ <img src="https://github-readme-stats.vercel.app/api?username=marcosalbuquerque&show_icons=true&theme=onedark&locale=pt-br" height=190 />
+</p>
+
