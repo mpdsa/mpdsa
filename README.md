@@ -29,7 +29,7 @@ Trabalhando com tecnologia desde 2009!
 ![MySQL](mysql.png "MySQL")
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=red&right_color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcosAlbuquerque&left_color=red&right_color=blue)
 
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbuquerque&layout=compact&theme=dark&hide_border=false" height=167 />
