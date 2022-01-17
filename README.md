@@ -4,7 +4,7 @@ Trabalhando com tecnologia desde 2009!
 ### Sobre
 <!-- * Estudando: Análise e Desenvolvimento de Sistemas (ADS) - UNINABUCO -->
 * Cursando: Full Stack - Trybe.
-* Aprendendo: [Socket.io](https://socket.io/)
+* Aprendendo: [Python](https://www.python.org/)
 * Dúvidas: Pergunte sobre desenvolvimento web.
 * Trabalho: Buscando seguir carreira como Engenheiro Front End.
 
