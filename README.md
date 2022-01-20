@@ -10,7 +10,7 @@ Trabalhando com tecnologia desde 2009!
 
 
 ### Experiências
-* Iniciei como Técnico de Montagem e Manutenção de Micro Freelancer em 2009.
+* Iniciei como Técnico em Informática autônomo em 2009.
 * Desenvolvi sites, criei servidores de jogos privados, criei programas para windows, cheats, etc.
 * Sou Voluntário no Site [Atados](https://www.atados.com.br/) Desenvolvendo e Ajudando na Construção Sites para Ong's Desde 2019.
 
