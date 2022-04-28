@@ -49,8 +49,6 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=flat&logo=Freelancer&logoColor=white)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcosAlbuquerque&left_color=red&right_color=blue)
 
 <p align = "center">
