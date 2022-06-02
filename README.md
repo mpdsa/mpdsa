@@ -1,20 +1,15 @@
 ## Olá, me chamo Marcos e estou na área da tecnologia desde 2009.
 
 
-### Estudando Desenvolvimento Full-Stack na [Trybe](https://www.trybe.com.br/).
- 
-✔️ Fundamentos
-&nbsp;&nbsp;&nbsp;&nbsp;✔️ Front-End
-&nbsp;&nbsp;&nbsp;&nbsp;✔️ Back-End
-&nbsp;&nbsp;&nbsp;&nbsp;➡️ Ciência da Computação
+#### Conclusão do curso de Desenvolvimento Full-Stack na [Trybe](https://www.betrybe.com/) em 22/06/2022.
 
 
 
-### Em transição de carreira, busco trabalhar como Desenvolvedor Front End.
+### Em transição de carreira, busco seguir carreira como Desenvolvedor Front End.
     
 ### Experiências
 * Iniciei como Técnico em Informática autônomo em 2009.
-* Desenvolvi sites, criei servidores de jogos privados, criei programas para windows, cheats, etc.
+* Desenvolvi por hobby sites, servidores de jogos privados, programas para windows, cheats, etc.
 * Sou Voluntário no Site [Atados](https://www.atados.com.br/) Desenvolvendo e Ajudando na Construção Sites para Ong's Desde 2019.
 
 ### Tecnologias
