@@ -47,7 +47,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcosAlbuquerque&left_color=red&right_color=blue)
 
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlbuquerque&layout=compact&theme=dark&hide_border=false" height=167 />
- <img src="https://github-readme-stats.vercel.app/api?username=marcosalbuquerque&show_icons=true&theme=onedark&locale=pt-br" height=167 />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvolvedorwebfrontend&layout=compact&theme=dark&hide_border=false" height=167 />
+ <img src="https://github-readme-stats.vercel.app/api?username=desenvolvedorwebfrontend&show_icons=true&theme=onedark&locale=pt-br" height=167 />
 </p>
 
