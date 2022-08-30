@@ -5,12 +5,12 @@
 </p>
 
 
-#### Em transição de carreira, busco me profissionalizar como Desenvolvedor Front-End.
+#### Em mudança de profissão, busco seguir carreira como Desenvolvedor Front-End.
     
 ### Experiências
 * Iniciei como técnico em informática autônomo em 2009.
-* Desenvolvi por hobby sites, servidores de jogos privados, programas para windows, cheats, etc.  
-* Sou voluntário no site [Atados](https://www.atados.com.br/) desenvolvendo e ajudando na construção e manutenção de sites para ONG's Desde 2019. 
+* Desenvolvi por hobby sites, servidores de jogos privados, programas para windows, cheats, etc.
+* Sou voluntário no site [Atados](https://www.atados.com.br/) desenvolvendo e ajudando na construção e manutenção de sites para ONG's Desde 2019.
 
 #### Para uma melhor experiência, visualize meus [repositórios](https://github.com/desenvolvedorwebfrontend?tab=repositories&q=&type=&language=&sort=name) de forma ordenada.
 
