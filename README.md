@@ -48,10 +48,3 @@
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcosAlbuquerque&left_color=red&right_color=blue)
-
-
-<p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvolvedorwebfrontend&layout=compact&theme=dark&hide_border=false" height=167 />
- <img src="https://github-readme-stats.vercel.app/api?username=desenvolvedorwebfrontend&show_icons=true&theme=onedark&locale=pt-br" height=167 />
-</p>
-
