@@ -1,7 +1,10 @@
 ## Olá, me chamo Marcos e estou na área da tecnologia desde 2009!
 
+### [Portfólio](https://mpdsa.vercel.app/)
+
+
 <p>
-Atualmente desenvolvendo portfólio e projetos pessoais com React e React Native <br/>
+Atualmente aprofundando o conhecimento em React, React Native e TypeScript<br/>
 <img src="https://lojinhatrybe.com/wp-content/uploads/2021/11/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="15" height="15" /> Conclusão do curso de desenvolvimento Full-Stack na <a href="https://www.betrybe.com/">Trybe</a> em 22/06/2022.   
 </p>
 
