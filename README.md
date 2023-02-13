@@ -49,3 +49,10 @@ Atualmente aprofundando o conhecimento em React, React Native e TypeScript<br/>
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcosAlbuquerque&left_color=red&right_color=blue)
+
+
+
+![](https://raw.githubusercontent.com/mpdsa/Perfil-Github/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mpdsa/Perfil-Github/master/generated/languages.svg#gh-dark-mode-only)
+
+
