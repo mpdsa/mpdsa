@@ -1,8 +1,5 @@
 ## Olá, me chamo Marcos e estou na área da tecnologia desde 2009!
 
-### [Portfólio](https://mpdsa.vercel.app/)
-
-
 #### Em mudança de profissão, busco seguir carreira como Desenvolvedor Front-End.
     
 ### Experiências
