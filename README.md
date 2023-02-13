@@ -3,12 +3,6 @@
 ### [Portfólio](https://mpdsa.vercel.app/)
 
 
-<p>
-Atualmente aprofundando o conhecimento em React, React Native e TypeScript<br/>
-<img src="https://lojinhatrybe.com/wp-content/uploads/2021/11/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="15" height="15" /> 
-</p>
-
-
 #### Em mudança de profissão, busco seguir carreira como Desenvolvedor Front-End.
     
 ### Experiências
