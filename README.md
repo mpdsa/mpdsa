@@ -5,7 +5,7 @@
 
 <p>
 Atualmente aprofundando o conhecimento em React, React Native e TypeScript<br/>
-<img src="https://lojinhatrybe.com/wp-content/uploads/2021/11/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="15" height="15" /> Conclusão do curso de desenvolvimento Full-Stack na <a href="https://www.betrybe.com/">Trybe</a> em 22/06/2022.   
+<img src="https://lojinhatrybe.com/wp-content/uploads/2021/11/61549abf6fb9ca4e2fbc57a7_favicon_ios.png" width="15" height="15" /> 
 </p>
 
 
@@ -15,8 +15,9 @@ Atualmente aprofundando o conhecimento em React, React Native e TypeScript<br/>
 * Iniciei como técnico em informática autônomo em 2009.
 * Desenvolvi por hobby sites, servidores de jogos privados, programas para windows, cheats, etc.
 * Sou voluntário no site [Atados](https://www.atados.com.br/) desenvolvendo e ajudando na construção e manutenção de sites para ONG's Desde 2019.
+* Conclusão do curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 22/06/2022.   
 
-#### Para uma melhor experiência, visualize meus [repositórios](https://github.com/mpdsa?tab=repositories&q=&type=&language=&sort=name) de forma ordenada.
+#### Para uma melhor experiência, visualize meus [repositórios](https://github.com/mpdsa?tab=repositories&q=&type=&language=&sort=name) ordenados.
 
 
 ###### Linguagens / Frameworks / Cloud / CMS / Database / Outros
