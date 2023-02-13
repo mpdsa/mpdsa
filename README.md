@@ -3,8 +3,8 @@
 #### Em mudança de profissão, busco seguir carreira como Desenvolvedor Front-End.
     
 ### Experiências
-* Iniciei como técnico em informática autônomo em 2009.
-* Desenvolvi por hobby sites, servidores de jogos privados, programas para windows, cheats, etc.
+* Comecei como técnico em informática autônomo em 2009.
+* Por hobby desenvolvi sites, servidores de jogos privados, programas para windows, cheats, etc.
 * Sou voluntário no site [Atados](https://www.atados.com.br/) desenvolvendo e ajudando na construção e manutenção de sites para ONG's Desde 2019.
 * Conclusão do curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 22/06/2022.   
 
