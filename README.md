@@ -42,17 +42,9 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcosAlbuquerque&left_color=red&right_color=blue)
 
-<div style="display:flex;">
-    <picture>
-        <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true&theme=highcontrast&count_private=true&card_width=380"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true" />
-    </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsa&layout=compact&theme=highcontrast&card_width=380&langs_count=10" />
-</div>
+
+<span>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true&theme=highcontrast&count_private=true&card_width=400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsa&layout=compact&theme=highcontrast&card_width=400&langs_count=10" />
+</span>
+
