@@ -43,8 +43,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MarcosAlbuquerque&left_color=red&right_color=blue)
 
 
-<span>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true&theme=highcontrast&count_private=true&card_width=400" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsa&layout=compact&theme=highcontrast&card_width=400&langs_count=10" />
-</span>
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true&theme=highcontrast&count_private=true" height=167 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsa&layout=compact&theme=highcontrast&langs_count=10"  height=167 />
+</p>
 
