@@ -45,6 +45,6 @@
 
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true&theme=highcontrast&count_private=true" height=167 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsa&layout=compact&theme=highcontrast&langs_count=10&card_width=400"  height=167 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsa&layout=compact&theme=highcontrast&langs_count=10&card_width=500"  height=167 />
 </p>
 
