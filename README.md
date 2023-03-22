@@ -45,7 +45,7 @@
 <div style="display:flex;">
     <picture>
         <source 
-          srcset="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true&theme=highcontrast&count_private=true&card_width=500"
+          srcset="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true&theme=highcontrast&count_private=true&card_width=380"
           media="(prefers-color-scheme: dark)"
         />
         <source
@@ -54,5 +54,5 @@
         />
         <img src="https://github-readme-stats.vercel.app/api?username=mpdsa&show_icons=true" />
     </picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsa&layout=compact&theme=highcontrast&card_width=500&langs_count=10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpdsa&layout=compact&theme=highcontrast&card_width=380&langs_count=10" />
 </div>
