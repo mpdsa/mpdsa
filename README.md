@@ -1,15 +1,15 @@
 ## Olá, me chamo Marcos e estou na área da tecnologia desde 2009!
 
-#### Em mudança de profissão, busco seguir carreira como Desenvolvedor Front-End.
+Em mudança de profissão, busco seguir carreira como Desenvolvedor Web.  
+Atualmente estudando Java para web com Angular.
     
 ### Experiências
-* Comecei como técnico em informática autônomo em 2009.
+* Iniciei como técnico em informática autônomo em 2009.
 * Por hobby desenvolvi sites, servidores de jogos privados, programas para windows, cheats, etc.
 * Sou voluntário no site [Atados](https://www.atados.com.br/) desenvolvendo e ajudando na construção e manutenção de sites para ONG's Desde 2019.
 * Conclusão do curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 22/06/2022.   
 
-#### Para uma melhor experiência, visualize meus [repositórios](https://github.com/mpdsa?tab=repositories&q=&type=&language=&sort=name) ordenados.
-
+❗ Visualize meus [repositórios](https://github.com/mpdsa?tab=repositories&q=&sort=name) ordenados para uma melhor experiência.
 
 ###### Linguagens / Frameworks / Cloud / CMS / Database / Outros
 <!-- Html  -->
