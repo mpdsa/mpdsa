@@ -9,7 +9,6 @@ Atualmente estudando Java para web com Angular.
 * Sou voluntário no site [Atados](https://www.atados.com.br/) desenvolvendo e ajudando na construção e manutenção de sites para ONG's Desde 2019.
 * Conclusão do curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 22/06/2022.   
 
-❗ Visualize meus [repositórios](https://github.com/mpdsa?tab=repositories&q=&sort=name) ordenados para uma melhor experiência.
 
 ###### Linguagens / Frameworks / Cloud / CMS / Database / Outros
 <!-- Html  -->
