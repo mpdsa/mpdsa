@@ -9,6 +9,9 @@ Atualmente estudando Java para web com Angular.
 * Sou voluntário no site [Atados](https://www.atados.com.br/) desenvolvendo e ajudando na construção e manutenção de sites para ONG's Desde 2019.
 * Conclusão do curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> em 22/06/2022.   
 
+### Histórico de aprendizado
+* [Digital Innovation One](https://www.dio.me/users/marcos_a20)
+* [Alura (Resumo)](https://cursos.alura.com.br/user/marcosa20) / [Alura (Completo)](https://cursos.alura.com.br/user/marcosa20/fullCertificate/abfd5ba8f8f42a027946a08f11d01f08)
 
 ###### Linguagens / Frameworks / Cloud / CMS / Database / Outros
 <!-- Html  -->
