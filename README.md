@@ -1,7 +1,6 @@
 ## Olá, me chamo Marcos e estou na área da tecnologia desde 2009!
 
-Em mudança de profissão, busco seguir carreira como Desenvolvedor Web.  
-Atualmente estudando Java para web com Angular.
+Atualmente estudo Java com Springboot e Angular.
     
 ### Experiências
 * Iniciei como técnico em informática autônomo em 2009.
